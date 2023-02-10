@@ -19,7 +19,7 @@ else if (ch>='0'  && ch<='9'){
 
 }
 else{
-	cout<<"special symbols";
+	cout<<"special symbol";
 }
 
 
