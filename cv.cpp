@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-
+// Welcome 
 char ch;
 ch=cin.get();
 
